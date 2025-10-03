@@ -1,0 +1,7 @@
+Nombres: Aldo Eglain
+Apellidos: Roblero Perez
+Edad: 19 anos
+Estatura: 170
+Telefono: 9616037111
+Genero: Hombre
+
